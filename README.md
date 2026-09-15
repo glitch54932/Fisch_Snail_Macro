@@ -8,4 +8,5 @@ HOW TO USE THE MACRO:
 3. Equip the "Tropical Toucan" companion.
 4. Press F8 to start the macro and F7 to stop it.
 
-<img width="402" height="337" alt="Screenshot_20260914_152715" src="https://github.com/user-attachments/assets/8fb5d368-294c-4e4f-80db-eb2d03a31c0f" />
+<img width="400" height="337" alt="Screenshot_20260915_105751" src="https://github.com/user-attachments/assets/634dc615-3f2b-4788-b81d-4e723967158a" />
+
