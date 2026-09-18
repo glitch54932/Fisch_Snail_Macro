@@ -28,5 +28,5 @@ A small beginner passion-project macro for the Roblox game **Fisch** that helps 
 6. Press **F8** or "Start" to start the macro.
 7. Press **F7** or "Stop" to stop the macro.
 
-<img width="400" height="337" alt="Screenshot_20260915_105751" src="https://github.com/user-attachments/assets/634dc615-3f2b-4788-b81d-4e723967158a" />
+<img width="400" height="337" alt="Fish_Macro_Look" src="" />
 
